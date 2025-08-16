@@ -188,5 +188,6 @@ Nếu gặp vấn đề, hãy kiểm tra:
 ---
 
 **Phiên bản:** 2.0  
-**Tác giả:** AI Assistant  
-**Ngày cập nhật:** 2024 
+**Tác giả:** Duy Nguyễn
+
+**Ngày cập nhật:** 2025
